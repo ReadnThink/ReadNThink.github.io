@@ -12,7 +12,6 @@ last_modified_at: 2020-05-25
 
 ---
 
-백엔드 개발자는 프론트에 대해 조금은 알아야 한다고 생각하여 Gitblog를 운영하며 <br/>
-프론트에 대한 공부도 조금씩 해볼까 하여 시작하였습니다.
+백엔드 개발자는 프론트에 대해 조금은 알아야 한다고 생각하여 Gitblog를 운영하며 프론트에 대한 공부도 조금씩 해볼까 하여 시작하였습니다.
 
 ![Githun Logo](https://www.malwarebytes.com/blog/news/2023/03/asset_upload_file32807_262604.png)
